@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+ocr_result.txt
+fix_test_result.txt
+.image_text_search_index.json
+.image_text_search_config.json
